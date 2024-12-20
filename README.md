@@ -1,10 +1,6 @@
 <h1 align='center'>Travel App Ui</h1>
 
-<div align='center'>
-    <img width='200px' src='/.github/Screenshot_20231006-112716_Expo Go.jpg' alt='scr1'>
-    <img width='200px' src='/.github/Screenshot_20231006-112724_Expo Go.jpg' alt='scr2'>
-    <img width='200px' src='/.github/Screenshot_20231006-112733_Expo Go.jpg' alt='scr3'>
-</div>
+<img src='public/profile.png'>
 
 # Description
 <p>Project made by <a href='https://www.youtube.com/watch?v=vV9zIDgT4Ik' target='_blank'>Code With Nomi</a></p>
